@@ -1,5 +1,6 @@
 # AI-Medical-Diagnosis
 Our website provides an AI-powered health screening tool to detect heart disease, thyroid disorders, lung cancer, and Parkinson's disease. By collecting user-provided information, our system analyzes symptoms and risk factors to offer early insights. This innovative approach aids in timely detection and proactive healthcare decisions.
+
 🔍 Overview
 Our web-based AI health screening tool assists in early detection of various medical conditions, including Heart Disease, Lung Cancer, Parkinson’s Disease, Hypothyroidism, and Eye Disorders (Glaucoma, Cataract, Diabetic Retinopathy, and Normal Eye). By analyzing user-provided symptoms and risk factors, the system delivers insightful predictions to support proactive healthcare decisions.
 
